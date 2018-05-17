@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 # Copyright Google Inc. 2010 All Rights Reserved
 import json
 import urllib
